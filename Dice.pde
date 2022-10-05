@@ -18,7 +18,6 @@ void setup()
        bob.roll((int)(Math.random()*6)+1);
      }
    }  
-      System.out.println(sum);
       fill(0,0,0);
       rect(845,80,1000,115);
       fill(255,255,255);
